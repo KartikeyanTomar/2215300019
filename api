@@ -1,0 +1,16 @@
+{
+    "email": "kartikeyan.tomar_cs.csf22@gla.ac.in",
+    "name": "kartikeyan singh tomar",
+    "rollNo": "2215300019",
+    "accessCode": "CNneGT",
+    "clientID": "b79c9f49-347d-4258-87a4-f82d418fd925",
+    "clientSecret": "cRxfPUGbbNHUZUXe"
+}
+
+
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzQ0OTU3OTc1LCJpYXQiOjE3NDQ5NTc2NzUsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6ImI3OWM5ZjQ5LTM0N2QtNDI1OC04N2E0LWY4MmQ0MThmZDkyNSIsInN1YiI6ImthcnRpa2V5YW4udG9tYXJfY3MuY3NmMjJAZ2xhLmFjLmluIn0sImVtYWlsIjoia2FydGlrZXlhbi50b21hcl9jcy5jc2YyMkBnbGEuYWMuaW4iLCJuYW1lIjoia2FydGlrZXlhbiBzaW5naCB0b21hciIsInJvbGxObyI6IjIyMTUzMDAwMTkiLCJhY2Nlc3NDb2RlIjoiQ05uZUdUIiwiY2xpZW50SUQiOiJiNzljOWY0OS0zNDdkLTQyNTgtODdhNC1mODJkNDE4ZmQ5MjUiLCJjbGllbnRTZWNyZXQiOiJjUnhmUFVHYmJOSFVaVVhlIn0.C8zrEKYOuvVYZd6Uy-zej86LXtN20JLPuYJaR-BJzOI",
+    "expires_in": 1744957975
+}
